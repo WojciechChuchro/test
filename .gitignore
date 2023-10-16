@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+
+# User-specific files
+*.iml
+*.iws
+*.ipr
+*.iws
+.idea/
+
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# Gradle
+build/
+out/
