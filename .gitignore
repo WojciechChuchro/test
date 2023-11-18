@@ -18,3 +18,9 @@ yarn.lock
 # Gradle
 build/
 out/
+
+# Maven
+bin/
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
